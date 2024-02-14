@@ -1,1 +1,12 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+div {
+    font-family: "Acme", sans-serif;
+    font-size: 90px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+p {
+    font-family: "Acme", sans-serif;
+    font-size: 80px;
+    margin-left: 300px;
+    margin-top: 60px;
+  }
