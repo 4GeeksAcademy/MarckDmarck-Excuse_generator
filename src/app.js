@@ -1,15 +1,15 @@
 window.onload = () => {
-  let personaje = new Array();
+  let personaje = Array();
   personaje[0] = "El gato";
   personaje[1] = "El perro";
   personaje[2] = "El carnicero";
 
-  let accion = new Array();
+  let accion = Array();
   accion[0] = "enterro mi tarea";
   accion[1] = "rompio mi cuaderno";
   accion[2] = "orino mi lapiz";
 
-  let tiempo = new Array();
+  let tiempo = Array();
   tiempo[0] = "luego de la clase";
   tiempo[1] = "justo ahora";
   tiempo[2] = "hace un rato";
